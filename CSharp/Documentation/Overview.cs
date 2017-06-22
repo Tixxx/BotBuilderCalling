@@ -1,4 +1,4 @@
-namespace Microsoft.Bot.Builder.Dialogs
+namespace Microsoft.Bot.Builder.Calling
 {
     /// [Getting Started with Bot Connector]: http://aka.ms/bf-getting-started-in-c
     /// [LUIS]: http://luis.ai 
